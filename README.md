@@ -7,4 +7,5 @@ Libreria self made in linguaggio C++ per le seguenti strutture dati:
 - binary search tree
 - iteratori
 - hashtable
+
 Include test e makefile. 
